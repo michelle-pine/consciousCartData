@@ -1,0 +1,578 @@
+[
+  {
+    "Name": "Fair Trade Certified",
+    "Description": "When you see a product with the Fair Trade Certified seal, you can be sure it was made according to rigorous social, environmental, and economic standards. We work closely on the ground with producers and certify transactions between companies and their suppliers to ensure that the people making Fair Trade Certified goods work in safe conditions, protect the environment, build sustainable livelihoods, and earn additional money to empower and uplift their communities.",
+    "Source": "https://www.fairtradecertified.org/why-fair-trade",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 6,
+    "Ethical Value": 8
+  },
+  {
+    "Name": "Organic Cotton Certified",
+    "Description": "Organic cotton certification tracks and identifies the use of organic cotton through a series of certificates. A farm certificate ensures that the cotton produced meets organic farming standards. A scope certificate ensures that the company is qualified to produce organic cotton. And a transaction certificate tracks the organic cotton passed from one hand to another.",
+    "Source": "http://aboutorganiccotton.org/wp-content/uploads/2016/04/AOC-OC_Certification_Process_EN.png?x52442",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 4
+  },
+  {
+    "Name": "Philanthropic Initiative",
+    "Description": "This organization partners with companies that seek to participate in various philanthropic activities including racial equality efforts, education, and community support.",
+    "Source": "https://www.tpi.org/about",
+    "Real Name": "Philanthropic Initiative Partner",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Fair Labor Association",
+    "Description": "A company accredited by the Fair Labor association has committed \"to promoting and complying with international labor standards throughout their supply chains.\" This means \"adopting and communicating workplace standards; training staff to assess and remediate noncompliance issues; conducting internal assessments of facilities; and providing workers with confidential reporting channels.",
+    "Source": "https://www.fairlabor.org/accreditation",
+    "Real Name": "Fair Labor Accredited",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 8
+  },
+  {
+    "Name": "Bluesign Certified",
+    "Description": "A bluesign APPROVED company minimizes harmful chemicals and dyes during their textile production process, as well as meets criteria for optimizing their sustainability when constructing their products",
+    "Source": "https://www.bluesign.com/en#:~:text=The%20blue%20way,-THE%20BLUE%20WAY&text=BLUESIGN%20is%20a%20system%20that,factory%20floor%20to%20finished%20product.",
+    "Real Name": "bluesign APPROVED",
+    "Parent": "",
+    "Sustainability Value": 6,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Green Certified",
+    "Description": "Green America certifies businesses that are:\n\nActively using their business as a tool for positive social change;\nOperating a \"values-driven\" enterprise according to principles of social justice AND environmental sustainability;\nEnvironmentally responsible in the way they source, manufacture, and market their products and run their operations and facilities;\nSocially equitable and committed to extraordinary practices that benefit workers, customers, communities, and the environment; and accountable for their work by continually improving and tracking their progress, and operating with transparency in every facet of their business.",
+    "Source": "greenamerica.org/green-america-green-business-certification",
+    "Real Name": "Green America Certified Business",
+    "Parent": "",
+    "Sustainability Value": 8,
+    "Ethical Value": 8
+  },
+  {
+    "Name": "Fair Trade Federation Member",
+    "Description": "Fair Trade federation members are committed to the following goals when interacting with producers: developing transparent and accountable relationships, building capacity, promoting fair trade, paying promptly and fairly, supporting safe and empowering work conditions, ensuring the rights of children, cultivate environmental stewardship, respecting cultural identity, and following a specific code of practice as outlined by the Federation.",
+    "Source": "https://www.fairtradefederation.org/fair-trade-federation-principles/#1548272564768-3386d931-fd6f",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 8
+  },
+  {
+    "Name": "Oeko Tex Certification",
+    "Description": "If a textile article carries the STANDARD 100 label, you can be certain that every component of this article, i.e. every thread, button and other accessories, has been tested for harmful substances and that the article therefore is harmless for human health.'",
+    "Source": "https://www.oeko-tex.com/en/our-standards/standard-100-by-oeko-tex",
+    "Real Name": "Oeko-Text STANDARD 100 label",
+    "Parent": "",
+    "Sustainability Value": 6,
+    "Ethical Value": 4
+  },
+  {
+    "Name": "GOTS Certified organic cotton",
+    "Description": "The Global Organic Textile Standard (GOTS) requires organic fibres grown without insecticides, herbicides, or GMOs.  The standard also requires ethical treatment of workers and safe chemical inputs during the production process, as well as organic fibers being used in the packaging, labeling, trading, and distribution process of textiles.",
+    "Source": "https://www.global-standard.org/the-standard/gots-key-features",
+    "Real Name": "GOTS Certified",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 4
+  },
+  {
+    "Name": "1% for the Planet Member",
+    "Description": "Businesses that join 1% for the Planet commit to giving 1% of gross sales each year to our approved nonprofit partners.",
+    "Source": "https://www.onepercentfortheplanet.org/",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Climate Neutral Certification",
+    "Description": "When you see the label, you know that a brand has achieved zero net carbon emissions by cleaning up its historical emissions, and is on a journey to limit carbon emissions from its operations.",
+    "Source": "https://www.climateneutral.org/faq",
+    "Real Name": "Climate Neutral Certified",
+    "Parent": "",
+    "Sustainability Value": 8,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Green America Certified Business",
+    "Description": "Green America certifies businesses that are:\n\nActively using their business as a tool for positive social change;\nOperating a \"values-driven\" enterprise according to principles of social justice AND environmental sustainability;\nEnvironmentally responsible in the way they source, manufacture, and market their products and run their operations and facilities;\nSocially equitable and committed to extraordinary practices that benefit workers, customers, communities, and the environment; and accountable for their work by continually improving and tracking their progress, and operating with transparency in every facet of their business.",
+    "Source": "greenamerica.org/green-america-green-business-certification",
+    "Real Name": "Green America Certified Business",
+    "Parent": "",
+    "Sustainability Value": 8,
+    "Ethical Value": 8
+  },
+  {
+    "Name": "Energy Star Certification",
+    "Description": "This brand uses buildings that are Energy Star Certified to produce its textiles. Energy Star certification means that the building meets EPA standards for energy efficiency.",
+    "Source": "https://www.energystar.gov/",
+    "Real Name": "Energy Star Certified",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "WaterSense Certification",
+    "Description": "WaterSense, a voluntary partnership program sponsored by the U.S. Environmental Protection Agency (EPA), is both a label for water-efficient products and a resource for helping you save water.",
+    "Source": "https://www.epa.gov/watersense/about-watersense",
+    "Real Name": "WaterSense Certified",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Cradle to Cradle Institute Member",
+    "Description": "Cradle to Cradle Certified™ is a globally recognized measure of safer, more sustainable products made for the circular economy...To receive certification, products are assessed for environmental and social performance across five critical sustainability categories: material health, material reuse, renewable energy and carbon management, water stewardship, and social fairness.",
+    "Source": "https://www.c2ccertified.org/get-certified/product-certification",
+    "Real Name": "Cradle to Cradle Certified",
+    "Parent": "",
+    "Sustainability Value": 8,
+    "Ethical Value": 4
+  },
+  {
+    "Name": "FSC-Certified",
+    "Description": "FSC certification ensures that products come from responsibly managed forests that provide environmental, social and economic benefits.",
+    "Source": "https://us.fsc.org/en-us/certification",
+    "Real Name": "FSC Certified",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 4
+  },
+  {
+    "Name": "SFI Chain-of-Custody Certification",
+    "Description": "Sustainable Forest Initiative's \"forest certification standard is based on principles that promote sustainable forest management, including measures to protect water quality, biodiversity, wildlife habitat, species at risk and Forests with Exceptional Conservation Value.",
+    "Source": "https://sfimi.org/about",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Greenguard Certification",
+    "Description": "If a company is Greenguard Certified, it uses buildings or equipment \"that have achieved GREENGUARD Certification are scientifically proven to meet some of the world’s most rigorous, third-party chemical emissions standards, helping to reduce indoor air pollution and the risk of chemical exposure, while aiding in the creation of healthier indoor environments.",
+    "Source": "https://www.ul.com/resources/ul-greenguard-certification-program#:~:text=air%20pollution%20levels.-,Products%20that%20have%20achieved%20GREENGUARD%20Certification%20are%20scientifically%20proven%20to,creation%20of%20healthier%20indoor%20environments.",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "LEED Verified",
+    "Description": "If a brand is LEED Verified, it produces its products in buildings that are LEED Verified. \"LEED (Leadership in Energy and Environmental Design) is the most widely used green building rating system in the world. Available for virtually all building types, LEED provides a framework for healthy, highly efficient, and cost-saving green buildings.",
+    "Source": "https://www.usgbc.org/leed/why-leed",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "BREEAM Reviewed",
+    "Description": "If a brand is BREEAM Certified, its buildings are actually what's certified. \"BREEAM is an international scheme that provides independent third party certification of the assessment of the sustainability performance of individual buildings, communities and infrastructure projects.",
+    "Source": "https://www.breeam.com/discover/how-breeam-certification-works/",
+    "Real Name": "BREEAM Certified",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Green Seal",
+    "Description": "If a brand is Green Seal Certified, its buildings and factories use products (not necessarily produce products) that meet high standards of sustainability.",
+    "Source": "https://greenseal.org/",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "USDA Biopreferred",
+    "Description": "If a brand is USDA biopreferred, it means that the products used or created by this brand are \"(A) composed, in whole or in significant part, of biological products, including renewable domestic agricultural materials, renewable chemicals, and forestry materials; or (B) an intermediate ingredient or feedstock",
+    "Source": "https://www.biopreferred.gov/BioPreferred/faces/pages/AboutBioPreferred.xhtml",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "SCS Certified Calcompliant",
+    "Description": "SCS calCOMPliant™ provides emission testing of panels and inspects manufacturing processes for manufacturers that sell or supply composite wood products to California.",
+    "Source": "https://www.scscertified.com/docs/calCOMPliant_sellsheet_web.pdf",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Rainforest Alliance Certified",
+    "Description": "This seal means that this brand produces products that are\"produced using methods that support the three pillars of sustainability: social, economic, and environmental.\" Brands that are rainforest certified are committed to preserving forests, following climate standards, preserving human rights, and improving community livelihood.",
+    "Source": "https://www.rainforest-alliance.org/faqs/what-does-rainforest-alliance-certified-mean",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 6,
+    "Ethical Value": 6
+  },
+  {
+    "Name": "SCS Certified Indoor Advantage",
+    "Description": "If a brand is SCS Indoor Advantage Certified, its buildings use interior products, such as furniture, with low emissions.",
+    "Source": "https://www.scsglobalservices.com/services/indoor-air-quality-certification",
+    "Real Name": "SCS Indoor Advantage Certified",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "SCS Certified Recycled Content",
+    "Description": "If a brand is SCS Recycled Content Certified, it sells products that are at least partially constructed from recycled materials.",
+    "Source": "https://www.scsglobalservices.com/services/recycled-content-certification",
+    "Real Name": "SCS Recycled Content Certified",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "LGBT Business Enterprise",
+    "Description": "If a brand is an LGBT Business Enterprise, it is majority-owned by LGBT individuals.",
+    "Source": "https://www.nglcc.org/get-certified",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 4
+  },
+  {
+    "Name": "National Minority Supplier Development Council (NMSDC) Member",
+    "Description": "If a brand is a National Minority Supplier Development Council (NMSDC) Member, it is a minority-owned business—meaning that it is majority-owned by Asian, Black, Hispanic, and Native American individuals.",
+    "Source": "https://nmsdc.org/about-nmsdc/",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 4
+  },
+  {
+    "Name": "Women's Business Enterprise National Council (WBENC) Certified",
+    "Description": "If a brand is Women's Business Enterprise National Council (WBENC) Certified, it is a women-owned business.",
+    "Source": "https://www.wbenc.org/",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 4
+  },
+  {
+    "Name": "Disability:In Certification",
+    "Description": "If a brand is Disability:In certified, it is a disability-owned or a veteran-disability-owned business enterprise.",
+    "Source": "https://disabilityin.org/what-we-do/supplier-diversity/get-certified/",
+    "Real Name": "Disability:In Certified",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 4
+  },
+  {
+    "Name": "American with Disabilities Act (ADA) Certified",
+    "Description": "If a brand is ADA Compliant, its online shopping tools and/or stores follow design standards that ensure that it is accessible to people of all ability types, including those with disabilities.",
+    "Source": "https://www.ada.gov/pcatoolkit/chap5toolkit.htm",
+    "Real Name": "ADA Compliant",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 4
+  },
+  {
+    "Name": "Above 70% in Fashion Transparency Index",
+    "Description": "The Fashion Transparency Index indicates whether a brand actively discloses information about its policies, practices, and supply chain. The higher the index, the more transparent the component.",
+    "Source": "https://www.fashionrevolution.org/about/transparency/",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Cotton Made in Africa Participant",
+    "Description": "If a brand is a Cotton Made in Africa Participant, they purchase sustainably-produced cotton from smallholder farmers in Africa—thereby helping people and the environment via trade, rather than donations.",
+    "Source": "https://cottonmadeinafrica.org/en/about-us/",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 4
+  },
+  {
+    "Name": "Fair Wear Foundation Member",
+    "Description": "If a brand is a member of the Fair Wear Foundation, it is committed to improving the working conditions of its factory workers all across its supply chains.",
+    "Source": "https://www.fairwear.org/join-the-movement/become-a-member/what-does-it-mean-to-be-a-fair-wear-member/",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Sweden Textile Initiative for Climate Action Member",
+    "Description": "If a brand is a member of Sweden Textile Initiative for Climate Action, that brand is committed to achieving carbon neutrality (or climate positivity) before 2050.",
+    "Source": "https://www.sustainablefashionacademy.org/STICA#:~:text=Here%20in%20Sweden%2C%20our%20government,be%20climate%20neutral%20by%202050.&text=Its%20aim%20is%20to%20support,while%20strengthening%20our%20global%20competitiveness.",
+    "Real Name": "Sweden Textile Initiative for Climate Action Signatory",
+    "Parent": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Responsible Down Standard Accredited",
+    "Description": "If a brand is certified by the Responsible Down Standard, it ensures \"that down and feathers come from animals that have not been subjected to any unnecessary harm.",
+    "Source": "https://textileexchange.org/standards/responsible-down/",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Better Cotton Initiative",
+    "Description": "If a brand is a member of the Better Cotton initiative, its supply chain practices more sustainable farming techniques.",
+    "Source": "https://bettercotton.org/about-bci/who-we-are/",
+    "Real Name": "Better Cotton Initiative Member",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "RWS Certified Wool",
+    "Description": "If a brand uses RWS Certified wool, meaning that sheep are properly treated and that farmland on which the sheep are kept is properly managed.",
+    "Source": "https://textileexchange.org/standards/responsible-wool/",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "FLA Workplace Code of Conduct",
+    "Description": "If a brand follows the FLA Workplace Code of Conduct, it has labor standards that ensure \"decent and humane\" working conditions. These conditions include protecting workers' rights, preventing harassment/abuse, preventing forced labor or child labor, freedom of association and collective bargaining, and ensuring healthy/safe working environments.",
+    "Source": "https://www.fairlabor.org/our-work/code-of-conduct",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Sustainable Apparel Coalition",
+    "Description": "If a brand is a member of the Sustainable Apparel Coalition, it has committed to measurable sustainable production and consumer transparency.",
+    "Source": "https://apparelcoalition.org/the-sac/",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "B Corp Certified",
+    "Description": "Certified B Corporations are businesses that meet the highest standards of verified social and environmental performance, public transparency, and legal accountability to balance profit and purpose.",
+    "Source": "https://bcorporation.net/about-b-corps",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 6
+  },
+  {
+    "Name": "Five Freedoms",
+    "Description": "If a brand practices the Five Freedoms, animals used to produce textiles are entitled to freedom from hunger and thirst, freedom from discomfort, freedom from pain/injury/disease, freedom to express normal behaviors, and freedom from fear or distress.",
+    "Source": "https://www.animalhumanesociety.org/health/five-freedoms-animals",
+    "Real Name": "Adheres to Five Freedoms of Animal Welfare",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Some Supply Chain Certified by FLA Workplace Code of Conduct",
+    "Description": "If a brand follows some of the FLA Workplace Code of Conduct, it has labor standards that ensure \"decent and humane\" working conditions at some levels of their supply chain, but not all.",
+    "Source": "",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 6
+  },
+  {
+    "Name": "Ethical Trade Initiative Member",
+    "Description": "If a brand is a member of the Ethical Trade Initiative, it is committed to promoting respect for workers' rights around the globe.",
+    "Source": "https://www.ethicaltrade.org/about-eti",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 6
+  },
+  {
+    "Name": "Certified by Worldwide Responsible Accredited Production",
+    "Description": "If a brand is certified by the Worldwide Responsible Accredited Production, it is compliant with standards that promote \"safe, lawful, humane and ethical manufacturing.",
+    "Source": "https://wrapcompliance.org/about/",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 8
+  },
+  {
+    "Name": "certified by the Workplace Condition Assessment (WCA)",
+    "Description": "If a brand has passed the Workplace Conditions Assessment, it has been tested for adhering to fair labor conditions, promoting fair hours/wages, ensuring worker healthy and safety, and effective management systems.",
+    "Source": "https://www.intertek.com/assurance/wca/",
+    "Real Name": "Assessed by the Workplace Condition Assessment (WCA)",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 6
+  },
+  {
+    "Name": "Ethical Clothing Australia",
+    "Description": "If a brand is a member of Ethical Clothing Australia, its workers are being paid appropriately and working in safe conditions throughout their entire supply chain.",
+    "Source": "https://ethicalclothingaustralia.org.au/",
+    "Real Name": "Ethical Clothing Australia Accredited",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 8
+  },
+  {
+    "Name": "U.N. Global Compact Signatory",
+    "Description": "If a brand is a signatory on the U.N. Global compact, it is committed to sustainability efforts, as well as the preservation of human rights and the environment. This does NOT ensure that the company has achieved sustainable or ethical production, but instead ensures that they are taking steps to improve their impact.",
+    "Source": "https://www.unglobalcompact.org/participation/join/commitment",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Fashion Pact Member",
+    "Description": "If a brand is a Fashion Pact Member, it is \"committed to a common core of key environmental goals in three areas: stopping global warming, restoring biodiversity and protecting the oceans.",
+    "Source": "https://thefashionpact.org/?lang=en",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Some Supply Chain Certified by Social Accountability International",
+    "Description": "If a brand is partnered with Social Accountability International, it is working to advance human rights at workplaces worldwide. The brand is actively working to improve the treatment of its workers.",
+    "Source": "https://sa-intl.org/about/",
+    "Real Name": "Partnered with Social Accountability International",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 6
+  },
+  {
+    "Name": "CanopyStyle Approved Policy",
+    "Description": "If a brand has a CanopyStyle Approved policy, it is committed to reducing deforestation, much of which can be attributed to the fashion industry, since pulp is often used to create fabrics such as rayon, modal, and lyocell.",
+    "Source": "https://canopyplanet.org/campaigns/canopystyle/",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Code of Conduct covers the ILO Four Fundamental Freedoms principles",
+    "Description": "This brand has a code of conduct that covers the following: freedom of association and the right to organize and bargain collectively; the prohibition of forced labor; prohibition of child labor; and the elimination of discrimination in employment.",
+    "Source": "https://www.ilo.org/declaration/lang--en/index.htm",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Facilities are certified by SA8000",
+    "Description": "If a brand is SA8000 Certified, it ensures the fair treatment of its workers. This includes preventing child labor, preventing forced labor, ensuring worker health and safety, protecting freedom of association and right to collective bargaining, preventing discrimination, fair working hours, fair wages, fair management system, and fair disciplinary practices.",
+    "Source": "https://sa-intl.org/programs/sa8000/",
+    "Real Name": "SA8000 Certified",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 6
+  },
+  {
+    "Name": "WFTO Guarantee System certified factory",
+    "Description": "If a brand is a member of the United Nations-led WTFO Guarantee System, it ensures fair trade at every level of the company/brand, as well as workers' rights and respect for the environment.",
+    "Source": "",
+    "Real Name": "WTFO Guarantee System Member",
+    "Parent": "",
+    "Sustainability Value": 6,
+    "Ethical Value": 8
+  },
+  {
+    "Name": "Some Supply Chain Certified by SMETA Best Practice Guidance",
+    "Description": "This brand has had some of its suppliers assessed for workers' rights violations. This audit is undertaken to achieve more responsible business practices.",
+    "Source": "https://www.sedex.com/our-services/smeta-audit/",
+    "Real Name": "Some Suppliers SMETA Assessed",
+    "Parent": "SMETA Assessed",
+    "Sustainability Value": 0,
+    "Ethical Value": 4
+  },
+  {
+    "Name": "Fairtrade International - Small Producers Organizations",
+    "Description": "This brand primarily owns small-scale farms that democratically make decisions for their organization, build resilient and inclusive organizations, and seek to uplift their communities.",
+    "Source": "https://www.fairtrade.net/standard/spohttps://www.fairtrade.net/standard/spo",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 4
+  },
+  {
+    "Name": "New Plastics Economy Global Commitment",
+    "Description": "If a brand is a signatory on the New Plastics Economy Global Commitment, it has committed to eliminating all problematic and unnecessary plastic items, innovating to make necessary plastics more reusable or compostable, and circulating existing plastic items in the economy to keep them out of the environment.",
+    "Source": "https://www.newplasticseconomy.org/projects/global-commitment/",
+    "Real Name": "New Plastics Economy Global Commitment Signatory",
+    "Parent": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "High Corporate Equality Index Score",
+    "Description": "If a brand has a high Corporate Equality Index, it has corporate policies and practices that ensure the fair inclusion of lesbian, gay, bisexual, transgender, and queer employees.",
+    "Source": "https://www.hrc.org/resources/corporate-equality-index",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 6
+  },
+  {
+    "Name": "'A' in the Carbon Disclosure Project (CDP) water security questionnaire",
+    "Description": "If a brand receives a \"A\" in the Carbon Disclosure Project's (CDP) Water Security Questionaire, it demonstrates awareness of water security, and has taken steps to preserve water security.",
+    "Source": "https://www.cdp.net/en/water",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 6,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "SMETA Assessed",
+    "Description": "This brand has had its suppliers assessed for workers' rights violations. This audit is undertaken to achieve more responsible business practices.",
+    "Source": "https://www.sedex.com/our-services/smeta-audit/",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 8
+  },
+  {
+    "Name": "Tanneries Audited by the Leather Working Group",
+    "Description": "This brand has had its tanneries audited by the Leather Working Group, which seeks to make tanneries more sustainable and reduce the environmental impact of tanneries.",
+    "Source": "https://www.leatherworkinggroup.com/who-we-are/about-us",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "",
+    "Description": "",
+    "Source": "",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": "",
+    "Ethical Value": ""
+  },
+  {
+    "Name": "",
+    "Description": "",
+    "Source": "",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": "",
+    "Ethical Value": ""
+  },
+  {
+    "Name": "",
+    "Description": "",
+    "Source": "",
+    "Real Name": "",
+    "Parent": "",
+    "Sustainability Value": "",
+    "Ethical Value": ""
+  }
+]

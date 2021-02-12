@@ -1,0 +1,499 @@
+[
+  {
+    "Name": "Biodegradable materials",
+    "Description": "Some products by this brand are constructed form materials that will decompose within a reasonable amount of time, thereby avoiding long-term pollution.",
+    "Real Name": "Uses Biodegradable Materials",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Black-Owned Business",
+    "Description": "This brand is owned or majority-owned by Black individuals.",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 1
+  },
+  {
+    "Name": "Community Outreach",
+    "Description": "This brand participates in outreach efforts that are intended to improve conditions or provide opportunities for the communities that surround their business.",
+    "Real Name": "Community Outreach Efforts",
+    "Sustainability Value": 0,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Deadstock materials",
+    "Description": "This brand uses \"deadstock\" materials or fabrics in its products, meaning its products are made from leftover fabrics from other companies that might otherwise end up in a landfill.",
+    "Real Name": "Uses Deadstock Materials",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Designed for longevity",
+    "Description": "This brand creates products that are built to last, much unlike the harmful \"fast fashion\" trends that result in tons of clothes being discarded in landfills each year.",
+    "Real Name": "Products Designed for Longevity",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Earth-friendly dyes",
+    "Description": "This brand uses earth-friendly, or low impact, dyes. These dyes require less water and produce less dye runoff.",
+    "Real Name": "Uses Earth-friendly dyes",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Eco-friendly practices",
+    "Description": "This brand has some eco-friendly practices in place, but they are not specific steps and goals—just a general commitment to helping the environment.",
+    "Real Name": "Some Eco-Friendly Practices",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Energy Efficient",
+    "Description": "This brand maintains energy efficiency in its fashion production process or supply chain.",
+    "Real Name": "",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Environmental Preservation",
+    "Description": "This brand supports environmental preservation efforts.",
+    "Real Name": "Supports Environmental Preservation",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Environmental Sustainability",
+    "Description": "This brand seeks to conduct its business in a way that it is environmentally sustainable, meaning that their production processes contribute minimally to climate change, deforestation, and other manifestations of environmental degradation.",
+    "Real Name": "Environmental Sustainability Efforts",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Ethical Supply Chain",
+    "Description": "This brand seeks to treat its workers fairly and support just social causes throughout its supply chain.",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 3
+  },
+  {
+    "Name": "Fair Labor Practices",
+    "Description": "This brand supports fair labor practices such as a fair wage, fair hours, healthy/safe working conditions, and preservation of workers' rights.",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 4
+  },
+  {
+    "Name": "Fair Trade",
+    "Description": "This brand supports producers in developing countries by ensuring that they receive sustainable and equitable trade relationships.",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Hand-crafted",
+    "Description": "This brand sells hand-crafted products, rather than factory-made, machine produced products that are created en masse.",
+    "Real Name": "Hand Crafted Products",
+    "Sustainability Value": 2,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Inclusive sizes",
+    "Description": "This brand sells apparel that fits many or all different body types and sizes.",
+    "Real Name": "Inclusive Sizes",
+    "Sustainability Value": 0,
+    "Ethical Value": 1
+  },
+  {
+    "Name": "LGBTQ+ Allyship",
+    "Description": "This brand supports and respects the rights of LGBTQ+ individuals.",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 1
+  },
+  {
+    "Name": "Limited-run batches",
+    "Description": "This brand uses small-batch manufacturing, which reduces waste during the production process.",
+    "Real Name": "Small Batch Manufacturing",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Living wages",
+    "Description": "This brand provides all its workers with a wage that effectively covers the basic costs of living.",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 4
+  },
+  {
+    "Name": "Locally made",
+    "Description": "This brand is a small business that serves its local community, rather than a large corporate audience.",
+    "Real Name": "Small Business/Community Business",
+    "Sustainability Value": 2,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Made to Order",
+    "Description": "This brand sells products that are \"made to order,\" meaning that products are only produced as they're ordered, rather than in bulk. This limits waste during the production process.",
+    "Real Name": "Made to Order Products",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Minimal Packaging",
+    "Description": "This brand minimizes wasteful packaging that accompanies its products.",
+    "Real Name": "",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Natural and Sustainable Materials",
+    "Description": "This brand uses natural and sustainable materials in products, meaning that its products are constructed from natural fabrics or materials that sustainably farmed or constructed.",
+    "Real Name": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Purchases Carbon Offsets",
+    "Description": "This brand provides monetary support to carbon emission reduction projects such as wind turbines by purchasing \"carbon offsets\" to compensate for their pollution.",
+    "Real Name": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Recyclable Packaging",
+    "Description": "This brand provides recyclable packaging for its products. The packaging is not necessarily made from recycled materials, but can be recycled after use.",
+    "Real Name": "",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Recycle Remnants",
+    "Description": "This brand recycles/reuses fabric or other material remnants from production, which helps avoid fabric waste in landfills.",
+    "Real Name": "",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Recycled Packaging",
+    "Description": "This brand provides packaging made from recycled materials, but the packaging is not necessarily recyclable.",
+    "Real Name": "",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Recycles",
+    "Description": "This brand participates in some recycling efforts.",
+    "Real Name": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Safe and Fair Labor Standards",
+    "Description": "This brand supports safe and fair labor standards for its employees, thereby working to achieve safe and healthy workplaces.",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Support and promotes gender equality",
+    "Description": "This brand supports gender equality by providing opportunities for women in the workplace and reducing wage gaps between genders.",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 1
+  },
+  {
+    "Name": "Supports Accessibility",
+    "Description": "This brand takes steps to make their products more accessible to those with disabilities.",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 1
+  },
+  {
+    "Name": "Supports BLM",
+    "Description": "This brand has voiced public support for the Black Lives Matter (BLM) movement.",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 1
+  },
+  {
+    "Name": "Supports Education",
+    "Description": "This brand has devoted resources to educational causes such as schools, scholarships, or other forms of learning.",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 1
+  },
+  {
+    "Name": "Sustainable Cotton",
+    "Description": "This brand purchases cotton that is sustainably farmed.",
+    "Real Name": "",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Upcycling",
+    "Description": "This brand transforms trash or other waste products into entirely new or restored products (essentially 'trash to treasure'). This kind of practice reduces waste sent to landfills.",
+    "Real Name": "",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Uses Solar Power",
+    "Description": "This brand's facilities utilize or produce solar power, which is a clean, renewable energy source.",
+    "Real Name": "",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Zero waste practices",
+    "Description": "This brand doesn't create any waste during its production process. This means that the brand has limited wasteful byproducts, recycles what it doesn't use, and/or composts unused components.",
+    "Real Name": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Does Not Use Fur/Exotic Animal Skins",
+    "Description": "This brand does not incorporate fur or exotic animal skins into its clothing, which reduces threats to endangered animals valued for their furs.",
+    "Real Name": "",
+    "Sustainability Value": 1,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Chitosan",
+    "Description": "This brand uses chitosan in its textile production, which is a fully biodegradable material created from crabmeat waste. This means that chitosan based clothes break down quickly and are 'recycled' from waste materials.",
+    "Real Name": "",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Organic Cotton",
+    "Description": "This brand claims to use organic cotton, though this organic cotton is not certified.",
+    "Real Name": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Zero Liquid Discharge Practices",
+    "Description": "This brand discharges no wastewater into the surrounding environment during its production processes. The wastewater is instead recycled and reused in the industrial process.",
+    "Real Name": "",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Restricted Substance List",
+    "Description": "This brand restricts the use of certain chemicals in the manufacturing of its products. A Restricted Substance List can adhere to government regulations to protect consumers or go above what governments have specified.",
+    "Real Name": "",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Woman Leadership",
+    "Description": "This brand has owners, leaders, or executives that are women.",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 1
+  },
+  {
+    "Name": "Supports Charities",
+    "Description": "This brand supports charity efforts. Supporting charity efforts could mean supplying finances, supply, or manpower to a charitable cause.",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Environmental Sustainability Plan",
+    "Description": "This brand has a plan to become environmentally sustainable by a future date, but has not yet met those goals.",
+    "Real Name": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Recycled Materials",
+    "Description": "This brand uses recycled materials in its production process.",
+    "Real Name": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Reduced Gender Pay Gap",
+    "Description": "This brand has actively reduced the pay gap between genders, meaning that men and women receive closer to the same wage for the same job.",
+    "Real Name": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Anti-Slavery and Human Trafficking Policy",
+    "Description": "This brand has an established policy that condemns slavery and human trafficking throughout its supply line.",
+    "Real Name": "",
+    "Sustainability Value": 1,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Plant-Based Materials",
+    "Description": "This brand utilizes natural plant-based materials in its production.",
+    "Real Name": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Worker Empowerment",
+    "Description": "This brand supports the empowerment of its workers, including workers' rights to collective bargaining and freedom of association with trade unions.",
+    "Real Name": "",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "renewable energy",
+    "Description": "This brand uses renewable energy in its facilities and/or production process.",
+    "Real Name": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "eco-friendly shipping",
+    "Description": "This brand has eco-friendly shipping that may consist of cleaner transportation methods, biodegradable shipping materials, or other eco-friendly practices.",
+    "Real Name": "Eco-friendly shipping",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "vegan - no animal at all",
+    "Description": "This brand has vegan products, which means that animals and animal byproducts are not involved in the production process or the products themselves.",
+    "Real Name": "Vegan Products",
+    "Sustainability Value": 1,
+    "Ethical Value": 1
+  },
+  {
+    "Name": "Made in USA",
+    "Description": "This brand's products are produced exclusively in the USA.",
+    "Real Name": "",
+    "Sustainability Value": 1,
+    "Ethical Value": 1
+  },
+  {
+    "Name": "High Proportion of Eco-Friendly Materials",
+    "Description": "",
+    "Real Name": "",
+    "Sustainability Value": 4,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Policy to Prevent Deforestation of Ancient and Endangered Forests in its Supply Chain",
+    "Description": "This brand has a policy that assures the prevention of deforestation in the production of its goods. This means it is against practices that result in loss of trees and other other forest wildlife.",
+    "Real Name": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Encourages Sustainable Users",
+    "Description": "This brand has programs that encourages its users to be more sustainable in their day-to-day life.",
+    "Real Name": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Formal Statement Covering Workers Rights",
+    "Description": "This brand is transparent on the rights of its workers, meaning that they provide that information to the public.",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Plan to Reduce Greenhouse Gas Emissions",
+    "Description": "This brand has a plan to reduce greenhouse gas emissions, meaning that it seeks to reduce its carbon footprint in the future, but may still have yet to make progress.",
+    "Real Name": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Uses Non-Toxic Dyes",
+    "Description": "The dyes used by this brand are guaranteed to be non-toxic to humans.",
+    "Real Name": "",
+    "Sustainability Value": 3,
+    "Ethical Value": 3
+  },
+  {
+    "Name": "Traces Most of Supply Chain",
+    "Description": "This brand traces most (but not all) of its supply chain to make sure none of its suppliers are not engaging in unethical practices.",
+    "Real Name": "",
+    "Sustainability Value": 3,
+    "Ethical Value": 3
+  },
+  {
+    "Name": "Water Reduction Initiatives",
+    "Description": "This brand seeks to reduce its water consumption during its production process.",
+    "Real Name": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Above-Minimum Wages",
+    "Description": "This brand pays all its workers a wage that is above minimum wage in the regions where they operate.",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 4
+  },
+  {
+    "Name": "Plan to Reduce Deforestation",
+    "Description": "This brand has a plan to reduce deforestation—otherwise known as protecting forest and reducing wildlife destruction—but may not have made progress yet.",
+    "Real Name": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "Working to Eliminate Hazardous Chemicals",
+    "Description": "This brand is actively working to eliminate hazardous materials used in its production process.",
+    "Real Name": "",
+    "Sustainability Value": 2,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "good animal rating",
+    "Description": "This brand treats animals with dignity and respect, attending to their needs and ensuring humane conditions.",
+    "Real Name": "Proper Treatment of Animals",
+    "Sustainability Value": 0,
+    "Ethical Value": 1
+  },
+  {
+    "Name": "wool from non-mulesed sheep",
+    "Description": "This brand does not subject sheep to the practice of mulesing, which is a surgical procedure that can be considered inhumane, but can also be critical in protecting sheep from disease.",
+    "Real Name": "Wool from non-mulesed sheep",
+    "Sustainability Value": 0,
+    "Ethical Value": 1
+  },
+  {
+    "Name": "Limited Amount of Chemicals, Water and Wastewater Used in Production",
+    "Description": "This brand has limited the amount of chemical wastewater produced by its factories, thereby reducing potential environmental impact on the surrounding areas and water sources.",
+    "Real Name": "",
+    "Sustainability Value": 3,
+    "Ethical Value": 3
+  },
+  {
+    "Name": "Most Production Undertaken in USA",
+    "Description": "This brand largely produces in the USA only, though it has some overseas production in its supply chain.",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 2
+  },
+  {
+    "Name": "Greenhouse Gas Reductions",
+    "Description": "This brand has actively reduced its greenhouse gas emissions.",
+    "Real Name": "",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "minimise textile waste",
+    "Description": "This brand has made efforts to minimize textile waste in its production, meaning that it sends fewer articles of clothing to landfills.",
+    "Real Name": "Minimizes Textile Waste",
+    "Sustainability Value": 3,
+    "Ethical Value": 0
+  },
+  {
+    "Name": "basic formal policy to protect animal welfare",
+    "Description": "This brand has a transparent, formal policy that outlines its standards for protecting animals and maintaining animal welfare",
+    "Real Name": "",
+    "Sustainability Value": 0,
+    "Ethical Value": 1
+  }
+]

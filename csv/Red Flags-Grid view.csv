@@ -1,0 +1,32 @@
+﻿Name,Notes,Source,Deduction
+Heavy Polluter,This brand is known to be a significant source of pollutants. ,,-8
+Mistreats Workers,"This brand is known to deny its workers critical fair labor rights including fair wages, fair hours, right to association and collective bargaining, and more.",,-8
+Unsustainable Practices,"This brand has unsustainable practices, potentially involving the excessive consumption or pollution of resources.",,-4
+Fast Fashion,"This brand caters to trends, meaning that it produces clothes to only be used or last for a short time. This means that the products outlive their lifespan quickly and significant quantities of textiles end up in landfills.",,-4
+Discriminatory Policies/Practices,This brand has policies and practices that are known to be discriminatory against vulnerable populations. ,,-8
+Politically Misaligned,This brand has aligned itself with corrupt or unethical political institutions. This alignment is determined through its donations or public support for causes.,,-4
+Wasteful Packaging,This brand uses packaging for its products that is particularly wasteful of resources or harmful to the environment.,,-2
+Poor Customer Service,"This brand is known to leave its customers dissatisfied and unhappy with its products, and insufficiently attends to customer needs. ",,-2
+Monopoly,"This brand has crowded out competition, which gives it excessive and unfair power in the market and industry.",,-4
+Inaccessible,"This brand has not made efforts to make its websites, tools, or facilities accessible to people with disabilities.",,-8
+Mistreats Women,This brand has a history of sexual harassment and discrimination against women.,,-8
+Intentionally Addictive/Wasteful,This brand produces products that are intentionally addictive or wasteful to force consumers to purchase more of its products.,,-4
+Profits Off War/Violence,"This brand has capitalized on war and violence, using misfortunes to essentially market or force people to buy their products.",,-8
+Partners with Discriminatory Agents,This brand has partnered with or sold to discriminatory agents that promote oppression of vulnerable groups.,,-4
+Privacy Violations,This brand has violated its customers' privacy by abusing or selling their data. ,,-4
+Deforestation Practices,This brand is known to participate in deforestation that significantly reduce biodiversity in the pursuit of optimized profit. ,,-4
+Exploitive Prices,This brand sets excessively high prices for goods that consumers require and cannot purchase elsewhere.,,-4
+Spreads Misinformation,This brand spreads factually inaccurate information in the hope of manipulating consumers' opinions. ,,-2
+Lack of Info,"There is little available information about this brand, meaning that it is not forthcoming about its practices",,-2
+Low Fashion Transparency Index,"This brand has a low transparency index, which means that it does disclose sufficient information about its sustainability efforts, social views, and ethical practices.",https://www.fashionrevolution.org/about/transparency/,-2
+No Policy to Reduce Greenhouse Gas Emissions,"This brand has not acknowledged the threat of climate change and greenhouse gases, and has no instituted a policy to reduce them. ",,-2
+No Labor Standard Certifications,"This brand's treatment of its workers has not been evaluated or audited by credible third parties, so there is no assurance that workers are treated fairly.",,-2
+Tax Avoidance,This brand actively seeks to avoid taxes through corporate loopholes.,,-4
+Does Not Limit Toxic Chemicals in Production,"This brand has no policies to limit the use of toxic chemicals in its production, meaning that it could be poisoning consumers or the environment with these chemicals. ",,-2
+Exotic Animal Skin/Fur,"This brand produces products that contain exotic animal skin/fur, which can pose threats to endangered animals. ",,-4
+Does Not Use Eco-Friendly Materials,"This brand has offered no proof of eco-friendly practices, thereby showing little regard for the deteriorating state of the environment. ",,-2
+Uses Leather and Wool,This brand uses leather and wool—materials commonly (though not always) associated with the mistreatment of animals.,,-2
+Mistreats Animals,"This brand does not treat its animals humanely, exposing them to unnecessary harm or harmful living conditions. 
+",,-4
+Few Eco-Friendly Materials,"This brand has not sufficiently committed to the use of eco-friendly materials, and barely uses any environmentally sustainable materials in its production process.",,-2
+,,,

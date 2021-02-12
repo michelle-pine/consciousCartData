@@ -1,0 +1,182 @@
+[
+  {
+    "Name": "Heavy Polluter",
+    "Notes": "This brand is known to be a significant source of pollutants.",
+    "Source": "",
+    "Deduction": -8
+  },
+  {
+    "Name": "Mistreats Workers",
+    "Notes": "This brand is known to deny its workers critical fair labor rights including fair wages, fair hours, right to association and collective bargaining, and more.",
+    "Source": "",
+    "Deduction": -8
+  },
+  {
+    "Name": "Unsustainable Practices",
+    "Notes": "This brand has unsustainable practices, potentially involving the excessive consumption or pollution of resources.",
+    "Source": "",
+    "Deduction": -4
+  },
+  {
+    "Name": "Fast Fashion",
+    "Notes": "This brand caters to trends, meaning that it produces clothes to only be used or last for a short time. This means that the products outlive their lifespan quickly and significant quantities of textiles end up in landfills.",
+    "Source": "",
+    "Deduction": -4
+  },
+  {
+    "Name": "Discriminatory Policies/Practices",
+    "Notes": "This brand has policies and practices that are known to be discriminatory against vulnerable populations.",
+    "Source": "",
+    "Deduction": -8
+  },
+  {
+    "Name": "Politically Misaligned",
+    "Notes": "This brand has aligned itself with corrupt or unethical political institutions. This alignment is determined through its donations or public support for causes.",
+    "Source": "",
+    "Deduction": -4
+  },
+  {
+    "Name": "Wasteful Packaging",
+    "Notes": "This brand uses packaging for its products that is particularly wasteful of resources or harmful to the environment.",
+    "Source": "",
+    "Deduction": -2
+  },
+  {
+    "Name": "Poor Customer Service",
+    "Notes": "This brand is known to leave its customers dissatisfied and unhappy with its products, and insufficiently attends to customer needs.",
+    "Source": "",
+    "Deduction": -2
+  },
+  {
+    "Name": "Monopoly",
+    "Notes": "This brand has crowded out competition, which gives it excessive and unfair power in the market and industry.",
+    "Source": "",
+    "Deduction": -4
+  },
+  {
+    "Name": "Inaccessible",
+    "Notes": "This brand has not made efforts to make its websites, tools, or facilities accessible to people with disabilities.",
+    "Source": "",
+    "Deduction": -8
+  },
+  {
+    "Name": "Mistreats Women",
+    "Notes": "This brand has a history of sexual harassment and discrimination against women.",
+    "Source": "",
+    "Deduction": -8
+  },
+  {
+    "Name": "Intentionally Addictive/Wasteful",
+    "Notes": "This brand produces products that are intentionally addictive or wasteful to force consumers to purchase more of its products.",
+    "Source": "",
+    "Deduction": -4
+  },
+  {
+    "Name": "Profits Off War/Violence",
+    "Notes": "This brand has capitalized on war and violence, using misfortunes to essentially market or force people to buy their products.",
+    "Source": "",
+    "Deduction": -8
+  },
+  {
+    "Name": "Partners with Discriminatory Agents",
+    "Notes": "This brand has partnered with or sold to discriminatory agents that promote oppression of vulnerable groups.",
+    "Source": "",
+    "Deduction": -4
+  },
+  {
+    "Name": "Privacy Violations",
+    "Notes": "This brand has violated its customers' privacy by abusing or selling their data.",
+    "Source": "",
+    "Deduction": -4
+  },
+  {
+    "Name": "Deforestation Practices",
+    "Notes": "This brand is known to participate in deforestation that significantly reduce biodiversity in the pursuit of optimized profit.",
+    "Source": "",
+    "Deduction": -4
+  },
+  {
+    "Name": "Exploitive Prices",
+    "Notes": "This brand sets excessively high prices for goods that consumers require and cannot purchase elsewhere.",
+    "Source": "",
+    "Deduction": -4
+  },
+  {
+    "Name": "Spreads Misinformation",
+    "Notes": "This brand spreads factually inaccurate information in the hope of manipulating consumers' opinions.",
+    "Source": "",
+    "Deduction": -2
+  },
+  {
+    "Name": "Lack of Info",
+    "Notes": "There is little available information about this brand, meaning that it is not forthcoming about its practices",
+    "Source": "",
+    "Deduction": -2
+  },
+  {
+    "Name": "Low Fashion Transparency Index",
+    "Notes": "This brand has a low transparency index, which means that it does disclose sufficient information about its sustainability efforts, social views, and ethical practices.",
+    "Source": "https://www.fashionrevolution.org/about/transparency/",
+    "Deduction": -2
+  },
+  {
+    "Name": "No Policy to Reduce Greenhouse Gas Emissions",
+    "Notes": "This brand has not acknowledged the threat of climate change and greenhouse gases, and has no instituted a policy to reduce them.",
+    "Source": "",
+    "Deduction": -2
+  },
+  {
+    "Name": "No Labor Standard Certifications",
+    "Notes": "This brand's treatment of its workers has not been evaluated or audited by credible third parties, so there is no assurance that workers are treated fairly.",
+    "Source": "",
+    "Deduction": -2
+  },
+  {
+    "Name": "Tax Avoidance",
+    "Notes": "This brand actively seeks to avoid taxes through corporate loopholes.",
+    "Source": "",
+    "Deduction": -4
+  },
+  {
+    "Name": "Does Not Limit Toxic Chemicals in Production",
+    "Notes": "This brand has no policies to limit the use of toxic chemicals in its production, meaning that it could be poisoning consumers or the environment with these chemicals.",
+    "Source": "",
+    "Deduction": -2
+  },
+  {
+    "Name": "Exotic Animal Skin/Fur",
+    "Notes": "This brand produces products that contain exotic animal skin/fur, which can pose threats to endangered animals.",
+    "Source": "",
+    "Deduction": -4
+  },
+  {
+    "Name": "Does Not Use Eco-Friendly Materials",
+    "Notes": "This brand has offered no proof of eco-friendly practices, thereby showing little regard for the deteriorating state of the environment.",
+    "Source": "",
+    "Deduction": -2
+  },
+  {
+    "Name": "Uses Leather and Wool",
+    "Notes": "This brand uses leather and wool—materials commonly (though not always) associated with the mistreatment of animals.",
+    "Source": "",
+    "Deduction": -2
+  },
+  {
+    "Name": "Mistreats Animals",
+    "Notes": "This brand does not treat its animals humanely, exposing them to unnecessary harm or harmful living conditions.",
+    "Source": "",
+    "Deduction": -4
+  },
+  {
+    "Name": "Few Eco-Friendly Materials",
+    "Notes": "This brand has not sufficiently committed to the use of eco-friendly materials, and barely uses any environmentally sustainable materials in its production process.",
+    "Source": "",
+    "Deduction": -2
+  },
+  {
+    "Name": "",
+    "Notes": "",
+    "Source": "",
+    "Deduction": ""
+  }
+]
